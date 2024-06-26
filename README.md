@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @dillonxyz
-- 👀 I’m interested in ...Bitcoin
-- 🌱 I’m currently in the qauntum realm ...
-- 💞️ I’m looking to collaborate on Ai,RWAs,Bitcoin maxi  ...
-- 📫 How to reach me ...@dillonxyz on X
-- 😄 Pronouns: ...dillonx
-- ⚡ Fun fact: ...Gamer 
+Quantum Computing, Science, Technology & Engineering. Interdisciplinary research @IBM 🧐 🔬🔬🔬 . | #QML |#Cat❤️ | 🇳🇬🇦🇪🇺🇸 #hologram @nvidia building
+
 
 <!---
 dillonxyz9/dillonxyz9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
